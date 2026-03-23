@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "idontletyouknow1.aternos.me",
+    "port": 57477,
     "version": "1.21.1"
   },
   "position": {
@@ -31,7 +31,7 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to jfilis",
         "I like to play Minecraft!"
       ]
     },
